@@ -2,7 +2,7 @@
 
 Senior full-stack .NET engineer (8+ years) building computer vision, OCR and LLM features that run in production. Toronto, Canada.
 
-Currently at DropLab, where I shipped an OpenCV + Gemini OCR pipeline (98% accuracy on a 100-packet test, manual logging down 50–70%) and an OpenAI-powered email automation pipeline — both with schema validation, rate limiting, backoff, and hard cost ceilings.
+Currently at DropLab, where I shipped an OpenCV + Gemini OCR pipeline (98% accuracy on a 300-packet test, manual logging down 50–70%) and an OpenAI-powered email automation pipeline — both with schema validation, rate limiting, backoff, and hard cost ceilings.
 
 ### Projects
 1. **PacketVision** — Hands-free capture and OCR station on Raspberry Pi. ROI-triggered capture, Laplacian sharpness selection, perspective-warp cropping, quota-protected LLM OCR. *Python, OpenCV, Gemini*
